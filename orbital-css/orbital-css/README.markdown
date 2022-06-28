@@ -1,5 +1,4 @@
-# Orbital Css
+# Venus Orbital Css
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/willpaige/pen/ImjGq](https://codepen.io/willpaige/pen/ImjGq).
+![image](https://user-images.githubusercontent.com/63984422/176162186-5b6d9116-0479-4a35-b264-53486aa330b4.png)
 
-Recreating orbiting planet diagram using only css
